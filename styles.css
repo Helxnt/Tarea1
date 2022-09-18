@@ -1,0 +1,44 @@
+img {
+  border-radius:50%;;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+h1{
+  font-size: 20px;
+  background-color:#229954;
+}
+
+.contenido{
+  display: flex;
+}
+
+.video{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
+  box-sizing: border-box;
+  width: auto;
+  height: auto;
+  border: solid #229954 10px;
+  padding: 2px;
+  text-align: center;
+  margin: auto;
+}
+
+
+.video {
+  position: relative;
+  padding-bottom: 0; 
+  padding-top: auto;
+  overflow: hidden;
+}
